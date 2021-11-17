@@ -1,0 +1,6 @@
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\bin\Debug\DesenvolvedorIO.Business.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\bin\Debug\DesenvolvedorIO.Business.pdb
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\obj\Debug\DesenvolvedorIO.Business.csproj.AssemblyReference.cache
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\obj\Debug\DesenvolvedorIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\obj\Debug\DesenvolvedorIO.Business.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Business\obj\Debug\DesenvolvedorIO.Business.pdb

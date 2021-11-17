@@ -1,0 +1,13 @@
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\DesenvolvedorIO.Infra.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\DesenvolvedorIO.Infra.pdb
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\DesenvolvedorIO.Business.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\DesenvolvedorIO.Business.pdb
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\obj\Debug\DesenvolvedorIO.Infra.csproj.AssemblyReference.cache
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\obj\Debug\DesenvolvedorIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\obj\Debug\DesenvolvedorIO.Infra.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\obj\Debug\DesenvolvedorIO.Infra.pdb
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\DesenvolvedorIO.Infra.dll.config
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\EntityFramework.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\EntityFramework.xml
+C:\Users\jean.pacheco\source\repos\DesenvolvedorIO_Avancado\DesenvolvedorIO.Infra\bin\Debug\EntityFramework.SqlServer.xml
