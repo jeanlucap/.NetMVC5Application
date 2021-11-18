@@ -20,7 +20,7 @@ namespace DesenvolvedorIO.Business.Models.Fornecedores.Services
 
         public Task AtualizarEndereco(Endereco endereco)
         {
-
+            throw new NotImplementedException();
         }
 
         public void Dispose()
